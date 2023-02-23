@@ -1,5 +1,3 @@
-package bad.robot.refactoring.chapter1;
-
 import java.util.ArrayList;
 import java.util.List;
 
